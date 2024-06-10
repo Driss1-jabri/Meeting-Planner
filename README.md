@@ -2,7 +2,7 @@
 # Les fonctionnalités principales de l'application :
 
 ## ReservationController:
-deleteReservation(Long id): Supprime une réservation spécifique par id.
+- deleteReservation(Long id): Supprime une réservation spécifique par id. <br>
 getAllReservations(): Récupère toutes les réservations, incluant les informations de la salle et de la réunion associées.
 
 ## ReunionController
